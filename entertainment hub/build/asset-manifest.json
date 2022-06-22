@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/entertainment-hub/static/css/main.3859cc8b.chunk.css",
+    "main.js": "/entertainment-hub/static/js/main.193b5c59.chunk.js",
+    "main.js.map": "/entertainment-hub/static/js/main.193b5c59.chunk.js.map",
+    "runtime-main.js": "/entertainment-hub/static/js/runtime-main.bf390d1b.js",
+    "runtime-main.js.map": "/entertainment-hub/static/js/runtime-main.bf390d1b.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/entertainment-hub/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.83ec4877.chunk.js": "/entertainment-hub/static/js/2.83ec4877.chunk.js",
+    "static/js/2.83ec4877.chunk.js.map": "/entertainment-hub/static/js/2.83ec4877.chunk.js.map",
+    "index.html": "/entertainment-hub/index.html",
+    "service-worker.js": "/entertainment-hub/service-worker.js",
+    "service-worker.js.map": "/entertainment-hub/service-worker.js.map",
+    "static/css/2.af3ab7ac.chunk.css.map": "/entertainment-hub/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.3859cc8b.chunk.css.map": "/entertainment-hub/static/css/main.3859cc8b.chunk.css.map",
+    "static/js/2.83ec4877.chunk.js.LICENSE.txt": "/entertainment-hub/static/js/2.83ec4877.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf390d1b.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.83ec4877.chunk.js",
+    "static/css/main.3859cc8b.chunk.css",
+    "static/js/main.193b5c59.chunk.js"
+  ]
+}
